@@ -2,7 +2,7 @@
 - Comments, function headers
 - Code my own implementation of Perlin noise (currently using mathf)
 
-# Procedural-Generation 
+# Project Background
 Unity project to better understand how Perlin noise works. Most of the code is under Assets\Scripts. 
 
 Select the map generator object. Change the fields and hit generate. Example below
